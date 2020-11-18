@@ -1,2 +1,2 @@
 gremlinpython==3.3.3
-notebook==5.7.8
+notebook==6.1.5
